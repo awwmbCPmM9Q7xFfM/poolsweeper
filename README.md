@@ -1,2 +1,2 @@
-# zensweep
+# poolsweeper
 py sweeper game
